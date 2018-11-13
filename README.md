@@ -6,4 +6,4 @@ Here are the biggest projects that I developed completing course of programming 
 
 2) Game - simple game, the main goal of which is to repair the road with holes. The game goes forever, but when you're bored, ther's button "Stop" to end the game.
 
-3)TicTacToe - simple relization of tictactoe for two players. When the winner is determined, the game shows the message and suggests to restart the game.
+3) TicTacToe - simple relization of tictactoe for two players. When the winner is determined, the game shows the message and suggests to restart the game.
