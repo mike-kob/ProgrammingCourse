@@ -1,6 +1,6 @@
 # ProgrammingCourse
 
-Here are the biggest projects that I developed completing course of programming in Java in the first year. There are subdirectories with screenshots of games.
+Here are the biggest projects that I developed completing course of programming in Java in the first year. For graphics I used Stanford Library for learners ACM. There are subdirectories with screenshots of games.
 
 1) DiceGame - the game based on the Witcher Dice Pocker (rules: https://witcher.fandom.com/wiki/The_Witcher_dice_poker ).
 
